@@ -3,3 +3,7 @@ pyhrv==0.4.1
 seaborn==0.12.2
 pyserial==3.5
 openpyxl==3.1.2
+scikit-image==0.22.0
+scipy==1.11.1
+pandas==2.0.3
+fpdf==1.7.2
