@@ -1,4 +1,4 @@
-opencv-python-headless==4.5.1.48
+opencv-python==4.5.1.48
 biosppy==1.0.0
 pyhrv==0.4.1
 seaborn==0.12.2
